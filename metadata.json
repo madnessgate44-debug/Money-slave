@@ -1,0 +1,8 @@
+{
+  "name": "MoneySlave",
+  "description": "Proactive revenue opportunity operating console with an agentic backend",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
